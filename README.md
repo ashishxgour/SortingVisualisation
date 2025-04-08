@@ -32,7 +32,7 @@ This project is a web-based visualization tool for comparing the performance and
 
 ## Demo:
 
-https://sorting-algorithms-visuals.netlify.app/
+https://sorting-visualisation-two.vercel.app/
 
 ## Installation
 
